@@ -10,7 +10,7 @@ layout: page
 *The Hong Kong University of Science and Technology*, Sept 2021 to May 2014
 
 #### Recent Work Experience
-**Bills Clerk at Henry Wai & Co., Solicitors LLP**, June 2018 to May 2021
+**Bills Clerk at Henry Wai & Co., Solicitors LLP**, June 2018 to May 2021\
 - Formalized bill-making processes
 - Examined bills’ contents
 - Trained new bill-makers
