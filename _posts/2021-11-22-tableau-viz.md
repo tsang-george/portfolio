@@ -4,8 +4,8 @@ author: George Tsang
 title: Tableau Visualization
 ---
 ### Using chart types to emphasize different aspects of data
-Dataset: The Bank of Canada Commodity Price Index ("BCPI")
-(Source: [Monthly BCPI](https://www.bankofcanada.ca/valet/observations/group/BCPI_MONTHLY/csv?start_date=1972-01-01), retrieved on Nov 19 2021)
+Dataset: The Bank of Canada Commodity Price Index ("BCPI"), monthly
+(Source: (https://www.bankofcanada.ca/valet/observations/group/BCPI_MONTHLY/csv?start_date=1972-01-01), retrieved on Nov 19 2021)
 
 First, let's have an overview with a simple line chart.
 ![BCPI from 1972 to 2021 and forecast](/portfolio-assignment/assets/tableau-viz/line.png)
