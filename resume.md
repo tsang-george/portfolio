@@ -4,9 +4,11 @@ layout: page
 ---
 #### Education
 **Data Analytics for Business Decision Making (graduate certificate)**
+
 *Durham College*, May 2021 to Now
 
 **BSc of Biology, minor in Biochemisty (2nd Class Honor, Division I)**
+
 *The Hong Kong University of Science and Technology*, Sept 2021 to May 2014
 
 #### Recent Work Experience
