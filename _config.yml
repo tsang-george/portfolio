@@ -6,6 +6,7 @@ theme: jekyll-theme-leaf
 permalink: :slug
 
 social:
+  linkedin: george-tsang-hk
   github: tsang-george
 
 plugins:
