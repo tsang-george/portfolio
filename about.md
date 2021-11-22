@@ -2,9 +2,5 @@
 title: About
 layout: page
 ---
-
-Hey! This is the "Leaf" Jekyll theme created by <a rel="me" target="_blank" href="https://twitter.com/_SupunKavinda">Supun Kavinda</a>.
-
-You can find the source code of this theme at <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>
-
-(Change this by editing `about.md` file)
+### George Tsang
+Currently studying Data Analytics for Business Decision Making at Durham College, I have a passion in data visualization and anything biology. I have a bachelor's degree in biology, worked in the legal, jewellery and music industries. I am also very into film photography recently, which explains my interest in visual communication. This mixed background and the diverse exposures that come with it allow me to see things from many perspectives.
