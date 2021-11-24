@@ -17,7 +17,7 @@ By that, I mean we should also look at the problem on a more specific level. Tha
 
 Since the dataset behind LPI is a compilation of scientific studies and surveys from online and government databases all over the world, population information of certain region or taxonomic groups to be extracted for further analyses. I see enormous potential in this dataset and approach.
 
-I genuinely hope the outcome of my project will be interesting and useful for local communities, conservation groups and authorities alike.
+I genuinely hope the outcome of my project will be interesting and useful for local communities, conservation groups and authorities alike. I also want to emphasize that this project, along with all conservation efforts, is targeted towards literally all human beings as we all are stakeholders of this beautiful planet.
 
 P.S. That is not a real quote. I am just making fun of myself.\
 P.P.S. Attached please find a photo of I made back in my hometown, Hong Kong. It is the flower of coral tree (*Erythrina*, species unknown).
