@@ -1,7 +1,7 @@
 ---
 layout: post
 author: George Tsang
-title: Thoughts on Data Analytics and Biodiversity
+title: Project on Data Analytics and Biodiversity
 ---
 I have been working with my classmate on a data analytics project about biodiversity in BC, Canada. It was inspired by the [**Living Planet Report**](https://livingplanet.panda.org/) published by *World Wide Fund for Nature* ("WWF"). Highlight of the report is the *Living Planet Index* ("LPI"), managed by *Zoological Society of London* ("ZSL") and WWF. LPI is basically an global indicator of change in biodiversity. While there is little we can do on global level as individuals or small organizations, we can definitely do something locally.
 
