@@ -21,4 +21,4 @@ I genuinely hope the outcome of my project will be interesting and useful for lo
 
 P.S. That is not a real quote. I am just making fun of myself.\
 P.P.S. Attached please find a photo of I made back in my hometown, Hong Kong. It is the flower of coral tree (*Erythrina*, species unknown).
-![coraltree](/portfolio-assignment/assets/thoughts/coraltree.jpg)
+![coraltree](/portfolio/assets/thoughts/coraltree.jpg)
